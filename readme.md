@@ -6,3 +6,4 @@ Repository untuk hacktoberfest 2020
 - Defri Indra Mahardika
 - YellTeam
 - Komang Mahatma Langendria
+- jay
